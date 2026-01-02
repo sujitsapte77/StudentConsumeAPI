@@ -33,7 +33,7 @@ namespace StudentConsumeAPI
                 }
                 else
                 {
-                    MessageBox.Show("Fail to load data");
+                    MessageBox.Show("Failed to load data");
                 }
 
             }
